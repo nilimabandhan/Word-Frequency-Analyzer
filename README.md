@@ -15,4 +15,4 @@ Instead of checking words one by one using a nested loop ($O(n^2)$ time complexi
 1. Clone the repository or download the `word_analyzer.py` file.
 2. Run the script in your terminal:
    `python word_analyzer.py`
-3. Paste any text and hit Enter!
+3. Paste any text and Enter!
